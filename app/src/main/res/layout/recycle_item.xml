@@ -6,16 +6,10 @@
     <ImageView
         android:layout_width="@dimen/_150sdp"
         android:layout_height="@dimen/_150sdp"
-        android:id="@+id/Imageview"
+        android:id="@+id/Main_image"
+        android:layout_margin="@dimen/_3sdp"
         />
-    <TextView
-        android:layout_width="@dimen/_150sdp"
-        android:layout_height="wrap_content"
-        android:text="123"
-        android:gravity="center"
-        android:layout_centerVertical="true"
-        android:textSize="@dimen/_25sdp"
-        android:id="@+id/name_text"
-        />
+
+
 
 </RelativeLayout>
